@@ -1,6 +1,6 @@
 
 
-# Identify the variables - school count, school type, year ,state
+# Identify the variables - school count, school type, year ,states
 # Each variable should have it's own column,goal is to covert into tidy data
 # wide data sets are easy for humans to understand and long data set is easy for comouter to understand
 
